@@ -1,6 +1,6 @@
  // Aquí tu código
-const lista = document.getElementById('lista');
-const boton = document.getElementById('agregar');
+const lista = document.getElementById('#lista');
+const boton = document.getElementById('#agregar');
 
 
 boton.addEventListener('click', function (){
